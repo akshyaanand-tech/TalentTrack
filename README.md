@@ -116,6 +116,3 @@ src/
 - [API Documentation](docs/API.md)
 - [Project Report Notes](docs/PROJECT_REPORT.md)
 
-## License
-
-Academic project — for educational purposes.
